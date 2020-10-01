@@ -1,0 +1,14 @@
+
+.lead__caption {
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  align-self: start;
+}
+
+
+@media screen and (max-width: 768px) {
+  .lead__caption{
+    margin-left: 1.5rem;
+  }
+}
