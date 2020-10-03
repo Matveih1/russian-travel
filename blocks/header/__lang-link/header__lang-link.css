@@ -3,7 +3,7 @@
   color: #ffffff;
   text-decoration: none;
   margin: 0 18px 0 0;
-  font-size: 1.5rem;
+  font-size: 24px;
   line-height: 1.2;
 }
 
@@ -15,8 +15,9 @@
   margin: 0;
 }
 
-@media screen and (max-width: 320px) {
-  .header__lang-link {
-    font-size: 0.8rem;
-  }
+@media screen 
+  and (max-width: 320px) {
+    .header__lang-link {
+     font-size: 18px;
+   }
 }
