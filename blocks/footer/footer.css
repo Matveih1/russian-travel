@@ -3,13 +3,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 90%;
+  max-width: 1184px;
+  width: 95%;
   margin: 92px auto 24px;
 }
 
 @media screen and (max-width: 768px) {
   .footer {
-    width: 95%;
     margin-top: 88px;
   }
 }
